@@ -16,6 +16,9 @@
     "SDK",
     "skygear"
   ],
+  "react-native": {
+    "localforage": false
+  },
   "devDependencies": {
     "babel-core": "^5.5.0",
     "babelify": "^6.2.0",
